@@ -12,6 +12,6 @@
 | ------------- | ------------- |
 # 程序语言
 [![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://reactjs.org/)
-[![](https://img.shields.io/badge/-Python-007396?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-JavaScript-DC143C?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://www.w3school.com.cn/js/index.asp)
+[![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-JavaScript-DC143C?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.w3school.com.cn/js/index.asp)
 
