@@ -5,7 +5,8 @@
 - 脚本只会一点点Python,Js,Lua
 - 没啥项目可以拿得出手
 - 精通花式Hello Word输出
-![Metrics](https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/ryo-ma/github-profile-trophy)
 [![OneB1ank's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneB1ank&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Visitor Count](https://profile-counter.glitch.me/OneB1ank/count.svg)
 
