@@ -17,3 +17,7 @@
 [![](https://img.shields.io/badge/-Kotlin-B15076?logo=kotlin&style=flat-square&logoColor=ffffff)](https://kotlinlang.org/)
 [![](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-JavaScript-DC143C?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.w3school.com.cn/js/index.asp)
+[![](https://img.shields.io/badge/-Lua-3277e7?style=flat-square&logo=lua&logoColor=ffffff)](http://www.lua.org/)
+
+
+
