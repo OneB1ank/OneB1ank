@@ -7,7 +7,6 @@
 - 精通花式Hello Word输出
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sun0225SUN)](https://github.com/OneB1ank)
-[![OneB1ank's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneB1ank&show_icons=true&theme=radical)](https://github.com/OneB1ank)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
