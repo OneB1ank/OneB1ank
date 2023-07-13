@@ -1,7 +1,7 @@
 ### 彩笔开发者|落榜美术生
-
-| <a href="https://github.com/OneB1ank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OneB1ank&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/OneB1ank"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneB1ank&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+# Stats 
+![](https://github-readme-stats.vercel.app/api?username=OneB1ank&show_icons=true&include_all_commits=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OneB1ank&layout=compact&langs_count=10&theme=radical)
 # 程序语言
 [![](https://img.shields.io/badge/-C-black?logo=c&style=flat-square&logoColor=ffffff)](http://cppmicroservices.org/)
 [![](https://img.shields.io/badge/-C++-808080?logo=c%2B%2B&style=flat-square&logoColor=ffffff)](http://cppmicroservices.org/)
